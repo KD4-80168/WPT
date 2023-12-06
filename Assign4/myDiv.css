@@ -1,0 +1,8 @@
+
+    .myDiv {
+        border:solid;
+        border-color: rgb(0, 0, 0);
+        height: 50%;
+        width: 50%;
+        text-align: center;
+      }
